@@ -1,0 +1,7 @@
+{
+  "name": "PyTrustNFe",
+  "build": {
+    "context": "..",
+    "dockerfile": "./Dockerfile"
+  }
+}
